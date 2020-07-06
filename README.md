@@ -10,7 +10,7 @@
 - Firbase
 
 Save & load data would `post` and pull down data from Firebase.
-[Come and Check it out](https://musing-kepler-9bed33.netlify.app/stocks)
+[Come and Check it out](https://musing-kepler-9bed33.netlify.app/)
 
 
 
